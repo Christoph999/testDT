@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523437751325.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A0E4944E",
+    "lastKnownWriteTime" : 1498638326,
+    "last_content_update" : 1498638326,
+    "path" : "C:/07 Rprogress/01 Packages/data911/tests/testthat/test-create_sim_missions.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "10,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

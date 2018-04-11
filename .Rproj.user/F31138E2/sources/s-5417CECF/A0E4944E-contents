@@ -1,0 +1,12 @@
+context("create_sim_missions")
+test_that("Test create_sim_missions", {
+  # skip("Skip for development of tests")
+
+  my_missions <- create_sim_missions(missions, hist_vehicles, origin_date)
+  expect_equal(is_ims_name(names(my_missions), sum = T), T)
+  expect_equal(sum(!diff(my_missions$t_alarm_sec[!is.na(my_missions$t_alarm_sec)]) >= 0 ), 0)
+
+  names(missions)[1] <- "hurz" # Should be id. Now mission$id can't be found any more
+  expect_error(create_sim_missions(missions, hist_vehicles, origin_date), ) # Error message not comprehensive!!!
+})
+

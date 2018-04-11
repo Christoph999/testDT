@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523437690535.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1731D755",
+    "lastKnownWriteTime" : 1523437793,
+    "last_content_update" : 1523437793081,
+    "path" : "C:/07 Rprogress/01 Packages/greatDT/tests/testthat/test-1.R",
+    "project_path" : "tests/testthat/test-1.R",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
